@@ -1,2 +1,3 @@
 # Demo
-my first repository
+my first repository.
+and first day in github
